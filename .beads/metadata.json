@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "polytopes",
+  "project_id": "fff6a340-4adc-4bb3-8940-294d9580a4e2"
+}

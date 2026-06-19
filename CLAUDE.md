@@ -1,8 +1,6 @@
-# Instructions for Agents
+# Project Instructions for AI Agents
 
-The goal of this repo is for me to learn how Lean works by seeing if I can get some AI agents to formalize my friend's paper. This paper is at `paper.pdf` and is a very beautiful result, but a rather short paper, which is why I chose it. Maybe this is still too ambitious.
-
-I'm not that interested in actually writing the Lean syntax myself, I'm more interested in getting AI to do it and then watching how the process unfolds, which parts are difficult and easy, etc.
+This file provides instructions and context for AI coding agents working on this project.
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:ca08a54f -->
 ## Beads Issue Tracker
@@ -50,3 +48,22 @@ bd close <id>         # Complete work
 - NEVER say "ready to push when you are" - YOU must push
 - If push fails, resolve and retry until it succeeds
 <!-- END BEADS INTEGRATION -->
+
+
+## Build & Test
+
+_Add your build and test commands here_
+
+```bash
+# Example:
+# npm install
+# npm test
+```
+
+## Architecture Overview
+
+_Add a brief overview of your project architecture_
+
+## Conventions & Patterns
+
+_Add your project-specific conventions here_
