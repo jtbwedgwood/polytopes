@@ -4,6 +4,8 @@ The goal of this repo is for me to learn how Lean works by seeing if I can get s
 
 I'm not that interested in actually writing the Lean syntax myself, I'm more interested in getting AI to do it and then watching how the process unfolds, which parts are difficult and easy, etc.
 
+Agents are encouraged to install tools and packages needed to unblock themselves. If Python packages are useful, create a local `.venv`, record them in `requirements.txt`, and keep generated environments out of git.
+
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:ca08a54f -->
 ## Beads Issue Tracker
 
